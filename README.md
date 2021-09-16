@@ -98,10 +98,6 @@ The final folder structure is like:
 ```
 
 
-# Running Instructions
-All default training parameters are exact the same as that stated in the report. You may check the `Methodology` part of the report to help understanding to the code.
-
-
 ## Train InceptionV3 classifier
 
 
