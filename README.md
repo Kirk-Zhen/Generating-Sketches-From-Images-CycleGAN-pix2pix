@@ -14,13 +14,12 @@
 3. `models_plot`: stores the `.png` file of model structure produced by Keras
 4. `models`: stores the models and checkpoints generated during training process.
 5. `process`: stores `.png` files which investigated the generated sketch after each epoch during the training process.
-6. `project_figure`: includes all figures used in the report
+6. `project_figure`: includes some figures in the `README.md` file
 7. `LoadData.py`: includes class for loading data
 8. `train_pix2pix.py`: executable to train pix2pix in the project
 9. `train_CycleGAN.py`: executable to train CycleGAN in the project
 10. `train_con_CycleGAN.py`: executable to train con-CycleGAN in the project
 11. `train_InceptionV3.py`: executable to train InceptionV3 model for performance evaluation
-12. `README.md`: instruction for the project
 13. `requirements.txt`: includes all the required environment information for quick installation.
 
 
